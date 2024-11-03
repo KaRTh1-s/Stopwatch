@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://www.bing.com/th/id/OIP.ZkMxKaN5LeI6DsUZIavSZgHaDz?w=334&h=179&c=7&r=0&o=5&dpr=1.3&pid=1.7');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.stopwatch {
+    text-align: center;
+    background: white;
+    padding: 50px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.display {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.controls button {
+    background-color: white; 
+    color: black; 
+    padding: 10px;
+    border: 3px solid green;
+    border-radius: 20px;
+}
+
+.controls button:hover {
+    background-color: green;
+    color: white;
+}
+
+.laps {
+    margin-top: 20px;
+}
