@@ -1,9 +1,3 @@
-# PRODIGY_WD_02
-Name: Karthikeyan S
-Domain: Web Development
-Company: Prodigy InfoTech
-
-
 Stopwatch Application:
 ----------------------
 This is a simple stopwatch application built with HTML, CSS, and JavaScript. It allows users to:
